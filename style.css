@@ -4,7 +4,7 @@ main {
 }
 .door {
     display: flex;
-    gap: 40px;
+    gap: 70px;
     justify-content: center;
     width: 100%;
     flex-wrap: wrap;
@@ -23,8 +23,8 @@ h1 {
 }
 img {
     border-radius: 10px;
-    height: 133.22px;
-    width: 133.22px;
+    height: 200px;
+    width: 200px;
 }
 .fire {
     width: 666.19;
